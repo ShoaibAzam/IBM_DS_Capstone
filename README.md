@@ -4,7 +4,7 @@ A repository for my Data Science Capstone from the IBM Data Science Professionia
 
 ## Background
 
-<img width="500" height="300" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/6310171/landing.0.gif"/> <img width="500" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF4OTh5OGxpa3FwZWpnMnFuMGs5aDliemw1ZDhzZTk5cnhuODRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CRup15MdJgjLy0/giphy.gif" alt="animated" />
+<img width="300" height="300" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/6310171/landing.0.gif"/> <img width="300" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF4OTh5OGxpa3FwZWpnMnFuMGs5aDliemw1ZDhzZTk5cnhuODRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CRup15MdJgjLy0/giphy.gif" alt="animated" />
 
 
 SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we are going to predict if SpaceX will reuse the first stage.
